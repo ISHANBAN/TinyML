@@ -1,1 +1,2 @@
 # Temperature
+Arduino Nano 33 BLE Sense board is known for its different in-build sensors like, humidity, temperature, pressure, etc. This block of code showcases that prospect of BLE Sense. The code imports the HS3001 and LPS22HB libraries which are specially designed for temperature and pressure calculation respectively. The code enables the sensors to read the temperature, pressure and humidity and prints it in CSV format. 
