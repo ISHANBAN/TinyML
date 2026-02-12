@@ -1,1 +1,1 @@
-
+It is a C++ Arduino library project designed for Image Recognition. It is designed with the help of Edge Impulse. Edge Impulse is a platform which automates the process of creation of machine learning models for deployment on microcontrollers. It just takes the training dataset as the input and creates a model as per the requirements to be deployed on a microcontroller. In this project, there is a customised dataset of only 40 objects of 4 classes, which are then split into training and testing datasets. The classes are bottle, cap, specs and mouse.
